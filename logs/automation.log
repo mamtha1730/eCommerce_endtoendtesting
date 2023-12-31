@@ -1,0 +1,30 @@
+08:39:57.007 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+08:39:57.077 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+08:40:24.102 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:40:24.108 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:40:52.240 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+08:40:55.983 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+22:29:54.955 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ics-guest\eclipse-workspace1\opencart_dec\mastersuite.xml"
+22:29:55.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ics-guest\eclipse-workspace1\opencart_dec\mastersuite.xml
+
+22:30:05.461 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+22:30:05.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+22:30:06.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+22:30:06.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+22:30:06.812 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+22:30:08.180 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+22:30:08.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+22:30:08.231 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+22:30:08.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+22:30:11.468 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+22:30:11.469 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+22:30:11.960 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+22:30:12.384 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+22:30:12.387 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+22:30:13.266 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+22:30:13.323 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+22:30:16.363 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+22:30:17.006 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+22:30:20.610 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+22:30:22.770 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
